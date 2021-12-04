@@ -21,7 +21,7 @@
       "type": "minecraft:in_square"
     },
     {
-      "max_water_depth": 3,
+      "max_water_depth": 4,
       "type": "minecraft:surface_water_depth_filter"
     },
     {
