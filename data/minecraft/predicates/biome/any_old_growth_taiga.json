@@ -1,0 +1,13 @@
+{
+	"condition": "minecraft:alternative",
+	"terms": [
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/old_growth_pine_taiga"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/old_growth_spruce_taiga"
+		}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"condition": "minecraft:alternative",
+	"terms": [
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/windswept_hills"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/windswept_gravelly_hills"
+		}
+	]
+}

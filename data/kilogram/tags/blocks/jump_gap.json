@@ -1,0 +1,22 @@
+{
+	"values": [
+		"minecraft:snow",
+		"#minecraft:fluids",
+		"#minecraft:fire",
+		"#minecraft:campfires",
+		"#minecraft:vegetation",
+		"#minecraft:candles",
+		"#minecraft:carpets",
+		"#minecraft:climbable",
+		"#minecraft:corals",
+		"#minecraft:dead_corals",
+		"#minecraft:flower_pots",
+		"#minecraft:portals",
+		"#minecraft:redstone_components",
+		"#minecraft:signs",
+		"#minecraft:torches",
+		"#minecraft:wall_corals",
+		"#minecraft:dead_wall_corals",
+		"#minecraft:amethyst"
+	]
+}

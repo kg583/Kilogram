@@ -1,0 +1,25 @@
+{
+	"condition": "minecraft:alternative",
+	"terms": [
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/the_end"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/small_end_islands"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/end_midlands"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/end_highlands"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/end_barrens"
+		}
+	]
+}

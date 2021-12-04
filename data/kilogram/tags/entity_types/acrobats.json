@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:zombies",
+    "#minecraft:skeletons",
+	"#minecraft:raiders",
+	"minecraft:witch",
+	"minecraft:villager",
+	"minecraft:piglin"
+  ]
+}

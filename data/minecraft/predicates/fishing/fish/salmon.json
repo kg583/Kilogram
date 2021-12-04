@@ -1,0 +1,45 @@
+{
+	"condition": "minecraft:alternative",
+	"terms": [
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/any_frozen_ocean"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/any_cold_ocean"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/river"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/any_mountains"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/any_beach"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/swamp"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/any_plains"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/any_snowy"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/any_taiga"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/any_forest"
+		}
+	]
+}

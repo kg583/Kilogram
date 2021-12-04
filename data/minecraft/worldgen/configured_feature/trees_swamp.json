@@ -1,0 +1,16 @@
+{
+  "config": {
+    "features": [
+      {
+        "feature": "minecraft:mangrove",
+        "chance": 0.3
+      },
+      {
+        "feature": "minecraft:mangrove_bush",
+        "chance": 0.5
+      }
+    ],
+    "default": "minecraft:cypress"
+  },
+  "type": "minecraft:random_selector"
+}

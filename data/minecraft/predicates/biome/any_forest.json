@@ -1,0 +1,25 @@
+{
+	"condition": "minecraft:alternative",
+	"terms": [
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/forest"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/windswept_forest"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/flower_forest"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/any_birch_forest"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/dark_forest"
+		}
+	]
+}

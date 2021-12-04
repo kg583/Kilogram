@@ -1,0 +1,21 @@
+{
+	"condition": "minecraft:alternative",
+	"terms": [
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/jungle"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/jungle_hills"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/bamboo_jungle"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/bamboo_jungle_hills"
+		}
+	]
+}

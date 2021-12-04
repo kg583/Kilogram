@@ -1,0 +1,20 @@
+{
+	"values": [
+		"minecraft:bamboo",
+		"minecraft:dead_bush",
+		"minecraft:glow_lichen",
+		"minecraft:lily_pad",
+		"minecraft:moss_carpet",
+		"minecraft:sugar_cane",
+		"minecraft:sweet_berry_bush",
+		"#minecraft:crops",
+		"#minecraft:flowers",
+		"#minecraft:fungi",
+		"#minecraft:grasses",
+		"#minecraft:lush_plants",
+		"#minecraft:roots",
+		"#minecraft:saplings",
+		"#minecraft:underwater_plants",
+		"#minecraft:vines"
+	]
+}

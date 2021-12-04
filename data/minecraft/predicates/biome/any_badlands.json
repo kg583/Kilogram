@@ -1,0 +1,17 @@
+{
+	"condition": "minecraft:alternative",
+	"terms": [
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/badlands"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/wooded_badlands"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/eroded_badlands"
+		}
+	]
+}

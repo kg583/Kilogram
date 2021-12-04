@@ -1,0 +1,33 @@
+{
+	"condition": "minecraft:alternative",
+	"terms": [
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/any_lukewarm_ocean"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/any_warm_ocean"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/beach"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/any_jungle"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/swamp"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/ocean"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/deep_ocean"
+		}
+	]
+}

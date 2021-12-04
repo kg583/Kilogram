@@ -1,0 +1,1 @@
+scoreboard players get #KG_JUMP_DIST const

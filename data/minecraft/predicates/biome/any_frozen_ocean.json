@@ -1,0 +1,13 @@
+{
+	"condition": "minecraft:alternative",
+	"terms": [
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/frozen_ocean"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/deep_frozen_ocean"
+		}
+	]
+}

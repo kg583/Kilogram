@@ -1,0 +1,15 @@
+{
+	"values": [
+		"minecraft:redstone_wire",
+		"minecraft:redstone_torch",
+		"minecraft:repeater",
+		"minecraft:comparator",
+		"minecraft:lever",
+		"minecraft:tripwire",
+		"minecraft:tripwire_hook",
+		"minecraft:lightning_rod",
+		"#minecraft:buttons",
+		"#minecraft:pressure_plates",
+		"#minecraft:rails"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"condition": "minecraft:alternative",
+	"terms": [
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/dripstone_caves"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/lush_caves"
+		}
+	]
+}

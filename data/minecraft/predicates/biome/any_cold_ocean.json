@@ -1,0 +1,13 @@
+{
+	"condition": "minecraft:alternative",
+	"terms": [
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/cold_ocean"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/deep_cold_ocean"
+		}
+	]
+}

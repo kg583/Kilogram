@@ -1,0 +1,49 @@
+{
+	"condition": "minecraft:alternative",
+	"terms": [
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/snowy_tundra"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/snowy_mountains"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/snowy_beach"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/snowy_taiga"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/snowy_taiga_hills"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/snowy_taiga_mountains"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/ice_spikes"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/grove"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/snowy_slopes"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/jagged_peaks"
+		},
+		{
+			"condition": "minecraft:reference",
+			"name": "minecraft:biome/frozen_peaks"
+		}
+	]
+}
