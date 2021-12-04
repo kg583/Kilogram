@@ -13,8 +13,8 @@ Download this repository as-is and install it as a datapack into your world. A f
 #### Bartering
 
 * Enchanted books may contain Fire Protection or Blast Protection
-* Iron boots are not offered
-* Iron nuggets are not offered
+* Iron boots are no longer offered
+* Iron nuggets are no longer offered
 
 #### Chests
 
@@ -27,7 +27,7 @@ Download this repository as-is and install it as a datapack into your world. A f
 #### Mobs
 
 * Elder guardians drop 1 Heart of the Sea
-* Elder guardians do not drop wet sponge
+* Elder guardians no longer drop wet sponge
 * Fish no longer drop bone meal
 * Shulkers now drop 2 shells, scaled by Looting
 
@@ -35,11 +35,11 @@ Download this repository as-is and install it as a datapack into your world. A f
 
 #### General
 
-* Polars are always angry at the nearest player within 32 blocks
+* Polars are now always angry at the nearest player within 32 blocks
 
 #### Jumping
 
-* Humanoid mobs are able to jump small gaps
+* Humanoid mobs are now able to jump small gaps
 * Mobs may fail the jump
 * Mobs will not jump if the landing area is unsafe
 * Mobs will not jump if standing on a honey block
@@ -85,27 +85,27 @@ Download this repository as-is and install it as a datapack into your world. A f
 
 #### General
 
-* Oak and birch trees are one block taller on average
-* Surface lava lakes are extremely uncommon
+* Oak and birch trees are now one block taller on average
+* Surface lava lake frequency has been significantly reduced
 
 #### Deserts
 
-* Water lakes are not generated
+* Water lakes are no longer generated
 
 #### Savannas
 
-* Tall grass covers the majority of the ground
+* Tall grass density has been significantly increased
 
 #### Swamps
 
-* All trees can generate in deeper water
-* Cypress trees are generated 20% of the time
+* All trees can now generate in deeper water
+* Added cypress trees
 	* Configured as short dark oak trees with jungle logs
-* Mangrove trees are generated 30% of the time
+* Added mangrove trees
 	* Configured as tall acacia trees with jungle logs
-* Mangrove bushes are generated 50% of the time
+* Added mangrove bushes
 	* Configured as jungle bushes
-* Swamp oaks are not generated
+* Swamp oaks are no longer generated
 
 ## Terms of Use
 
