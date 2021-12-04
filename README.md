@@ -10,9 +10,19 @@ Download this repository as-is and install it as a datapack into your world. A f
 
 ### Loot
 
+#### Bartering
+
+* Enchanted books may contain Fire Protection or Blast Protection
+* Iron boots are not offered
+* Iron nuggets are not offered
+
 #### Chests
 
 * Heart of the Sea can no longer be found in buried treasure
+
+#### Fishing
+
+* Lily pads can only be fished as junk in swamps
 
 #### Mobs
 
