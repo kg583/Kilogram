@@ -19,7 +19,7 @@ Download this repository as-is and install it as a datapack into your world. A f
 #### Chests
 
 * Heart of the Sea can no longer be found in buried treasure
-* Pillager outposts can now offer iron axes and enchanted crossbows, and no longer offer dark oak logs
+* Pillager outposts can now contain iron axes and enchanted crossbows, and no longer contain dark oak logs
 * Significantly reduced saddle frequency in dungeon chests
 
 #### Fishing
