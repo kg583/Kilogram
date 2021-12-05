@@ -37,7 +37,7 @@ Download this repository as-is and install it as a datapack into your world. A f
 
 #### General
 
-* Polars are now always angry at the nearest player within 32 blocks
+* Polar bears are now always angry at the nearest player within 32 blocks
 
 #### Jumping
 
