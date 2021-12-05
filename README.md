@@ -1,4 +1,4 @@
-# Kilogram
+# Kilogram v0.2
 
 Kilogram is a datapack designed to improve upon the vanilla experience. Additions and modifications included in Kilogram are focused on realism, consistency, and quality-of-life. Suggestions for future additions are always appreciated, but should generally remain in the scope of smaller tweaks and adjustments to the game.
 
