@@ -25,6 +25,15 @@ Download this repository as-is and install it as a datapack into your world. A f
 
 * Lily pads can only be fished as junk in swamps
 
+#### Hero of the Village Gifts
+
+* Cartographers now offer compasses
+* Clerics now offer XP bottles
+* Fishermen now offer pufferfish and tropical fish
+* Librarians now offer paper
+* Toolsmiths now offer only iron tools, and do not offer axes
+* Weaponsmiths now offer iron swords, and do not offer stone axes
+
 #### Mobs
 
 * Elder guardians drop 1 Heart of the Sea
