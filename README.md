@@ -19,7 +19,6 @@ Download this repository as-is and install it as a datapack into your world. A f
 #### Chests
 
 * Heart of the Sea can no longer be found in buried treasure
-* Pillager outposts can now contain iron axes and enchanted crossbows, and no longer contain dark oak logs
 * Significantly reduced saddle frequency in dungeon chests
 
 #### Fishing
@@ -32,6 +31,12 @@ Download this repository as-is and install it as a datapack into your world. A f
 * Elder guardians no longer drop wet sponge
 * Fish no longer drop bone meal
 * Shulkers now drop 2 shells, scaled by Looting
+
+#### Pillager Outposts
+
+* Chests can contain iron axes or poppies
+* Chests no longer contain dark oak logs
+* Crossbows are now randomly enchanted
 
 ### Mechanics
 
