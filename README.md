@@ -100,6 +100,7 @@ Download this repository as-is and install it as a datapack into your world. A f
 ### Predicates
 
 * Presence in each biome can be checked
+* Presence in each dimension can be checked
 * Presence in a number of biome categories can be checked
 * Presence in each locateable structure can be checked
 
