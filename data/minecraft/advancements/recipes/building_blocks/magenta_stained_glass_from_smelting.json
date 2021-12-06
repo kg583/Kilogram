@@ -2,26 +2,18 @@
   "parent": "minecraft:recipes/root",
   "rewards": {
     "recipes": [
-      "minecraft:iron_horse_armor"
+      "minecraft:magenta_stained_glass_from_smelting"
     ]
   },
   "criteria": {
-    "has_ingot": {
+    "has_concrete_powder": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:iron_ingot"
-          }
-        ]
-      }
-    },
-    "has_saddle": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:saddle"
+            "items": [
+              "minecraft:magenta_concrete_powder"
+            ]
           }
         ]
       }
@@ -29,14 +21,13 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "minecraft:iron_horse_armor"
+        "recipe": "minecraft:magenta_stained_glass_from_smelting"
       }
     }
   },
   "requirements": [
     [
-      "has_ingot",
-      "has_saddle",
+      "has_concrete_powder",
       "has_the_recipe"
     ]
   ]

@@ -2,16 +2,18 @@
   "parent": "minecraft:recipes/root",
   "rewards": {
     "recipes": [
-      "minecraft:trident"
+      "minecraft:orange_stained_glass_from_blasting"
     ]
   },
   "criteria": {
-    "has_heart": {
+    "has_concrete_powder": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:heart_of_the_sea"
+            "items": [
+              "minecraft:orange_concrete_powder"
+            ]
           }
         ]
       }
@@ -19,13 +21,13 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "minecraft:diamond_horse_armor"
+        "recipe": "minecraft:orange_stained_glass_from_blasting"
       }
     }
   },
   "requirements": [
     [
-      "has_heart",
+      "has_concrete_powder",
       "has_the_recipe"
     ]
   ]

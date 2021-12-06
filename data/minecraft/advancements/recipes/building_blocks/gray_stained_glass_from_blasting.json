@@ -2,26 +2,18 @@
   "parent": "minecraft:recipes/root",
   "rewards": {
     "recipes": [
-      "minecraft:golden_horse_armor"
+      "minecraft:gray_stained_glass_from_blasting"
     ]
   },
   "criteria": {
-    "has_ingot": {
+    "has_concrete_powder": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:gold_ingot"
-          }
-        ]
-      }
-    },
-    "has_saddle": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:saddle"
+            "items": [
+              "minecraft:gray_concrete_powder"
+            ]
           }
         ]
       }
@@ -29,14 +21,13 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "minecraft:golden_horse_armor"
+        "recipe": "minecraft:gray_stained_glass_from_blasting"
       }
     }
   },
   "requirements": [
     [
-      "has_ingot",
-      "has_saddle",
+      "has_concrete_powder",
       "has_the_recipe"
     ]
   ]
