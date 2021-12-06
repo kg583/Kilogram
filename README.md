@@ -97,6 +97,12 @@ Download this repository as-is and install it as a datapack into your world. A f
 * The standard recipe for 2 trapdoors now yields 12
 * The standard recipe for 6 stairs now yields 8
 
+### Predicates
+
+* Presence in each biome can be checked
+* Presence in a number of biome categories can be checked
+* Presence in each locateable structure can be checked
+
 ### World Generation
 
 #### General
