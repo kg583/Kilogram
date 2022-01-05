@@ -1,4 +1,4 @@
-# Kilogram v0.2
+# Kilogram v0.4
 
 Kilogram is a pack designed to improve upon the vanilla experience. Additions and modifications included in Kilogram are focused on realism, consistency, and quality-of-life. Suggestions for future additions are always appreciated, but should generally remain in the scope of smaller tweaks and adjustments to the game.
 
