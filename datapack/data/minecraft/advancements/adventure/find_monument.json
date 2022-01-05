@@ -2,13 +2,13 @@
 	"parent": "minecraft:adventure/root",
 	"display": {
 		"icon": {
-			"item": "minecraft:bell"
+			"item": "minecraft:prismarine"
 		},
 		"title": {
-			"translate": "advancements.adventure.find_village.title"
+			"translate": "advancements.adventure.find_monument.title"
 		},
 		"description": {
-			"translate": "advancements.adventure.find_village.description"
+			"translate": "advancements.adventure.find_monument.description"
 		},
 		"frame": "task",
 		"show_toast": true,
@@ -20,7 +20,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"location": {
-					"feature": "village"
+					"feature": "monument"
 				}
 			}
 		}
