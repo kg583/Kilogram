@@ -56,6 +56,12 @@ This repository contains a datapack and resourcepack, labeled accordingly. Insta
 * "Very, Very Frightening" moved from Adventure tab
 * "Who's the Pillager Now?" moved from Adventure Tab
 
+#### End
+
+* "A Long Way Down" added
+	* Triggered while crossing the Void without a Gateway
+	* Child of "Remote Getaway"
+
 #### Husbandry
 
 * "Sticky Situation" moved from Adventure tab
