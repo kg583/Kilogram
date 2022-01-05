@@ -16,15 +16,15 @@ This repository contains a datapack and resourcepack, labeled accordingly. Insta
 
 #### Adventuring
 
-* Description updated to account for new tabs
+* Description updated to account for new tab
 * Multiple advancements are now listed under the new Combat tab
-* Multiple advancements are now listed under the new Miscellaneous tab
 * "A Pirate's Life for Me" added
 	* Triggered upon opening a buried treasure chest
 	* Hidden child of "Plunderer"
 * "A Quaint Little Town" added
 	* Triggered upon discovering a village
 	* "Hired Help" is now a hidden child
+	* "Surge Protector" is now a hidden child
 	* "What a Deal!" is now a hidden child
 * "Absorbent, Yellow, and Porous" added
 	* Triggered upon collecting wet sponges
@@ -55,10 +55,11 @@ This repository contains a datapack and resourcepack, labeled accordingly. Insta
 * "Very, Very Frightening" moved from Adventure tab
 * "Who's the Pillager Now?" moved from Adventure Tab
 
-#### Miscellaneous
+#### Husbandry
 
 * "Sticky Situation" moved from Adventure tab
-* "Surge Protector" moved from Adventure tab
+	* Is now a child of "Bee Our Guest"
+* "Total Beelocation" is now child of "Bee Our Guest"
 
 ### Loot
 

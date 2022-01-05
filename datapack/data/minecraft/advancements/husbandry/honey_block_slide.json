@@ -1,14 +1,14 @@
 {
-  "parent": "minecraft:misc/root",
+  "parent": "minecraft:husbandry/safely_harvest_honey",
   "display": {
     "icon": {
       "item": "minecraft:honey_block"
     },
     "title": {
-      "translate": "advancements.misc.honey_block_slide.title"
+      "translate": "advancements.husbandry.honey_block_slide.title"
     },
     "description": {
-      "translate": "advancements.misc.honey_block_slide.description"
+      "translate": "advancements.husbandry.honey_block_slide.description"
     },
     "frame": "task",
     "show_toast": true,
