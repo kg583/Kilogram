@@ -21,15 +21,15 @@ This repository contains a datapack and resourcepack, labeled accordingly. Insta
 * Multiple advancements are now listed under the new Combat tab
 * "A Pirate's Life for Me" added
 	* Triggered upon opening a buried treasure chest
-	* Hidden child of "Plunderer"
+	* Child of "Plunderer"
 * "A Quaint Little Town" added
 	* Triggered upon discovering a village
-	* "Hired Help" is now a hidden child
-	* "Surge Protector" is now a hidden child
-	* "What a Deal!" is now a hidden child
+	* "Hired Help" is now a child
+	* "Surge Protector" is now a child
+	* "What a Deal!" is now a child
 * "Absorbent, Yellow, and Porous" added
 	* Triggered upon collecting wet sponges
-	* Hidden child of "Atlantean"
+	* Child of "Atlantean"
 * "Atlantean" added
 	* Triggered upon discovering an ocean monument
 * "Plunderer" added
@@ -38,7 +38,7 @@ This repository contains a datapack and resourcepack, labeled accordingly. Insta
 	* Triggered upon discovering a desert pyramid
 * "Tomb Raider" added
 	* Triggered upon opening a desert pyramid chest
-	* Hidden child of "Sands of Time"
+	* Child of "Sands of Time"
 
 #### Combat
 
