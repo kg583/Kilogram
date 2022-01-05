@@ -2,7 +2,7 @@
 	"parent": "minecraft:adventure/root",
 	"display": {
 		"icon": {
-			"item": "minecraft:prismarine"
+			"item": "minecraft:oak_boat"
 		},
 		"title": {
 			"translate": "advancements.adventure.find_shipwreck.title"

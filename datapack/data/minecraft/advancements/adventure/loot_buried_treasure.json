@@ -1,5 +1,5 @@
 {
-	"parent": "minecraft:adventure/find_pyramid",
+	"parent": "minecraft:adventure/find_shipwreck",
 	"display": {
 		"icon": {
 			"item": "minecraft:chest"
@@ -19,9 +19,7 @@
 		"loot_pyramid": {
 			"trigger": "minecraft:player_generates_container_loot",
 			"conditions": {
-				"location": {
-					"loot_table": "minecraft:chests/buried_treasure"
-				}
+				"loot_table": "minecraft:chests/buried_treasure"
 			}
 		}
 	},
