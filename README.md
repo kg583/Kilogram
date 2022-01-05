@@ -19,10 +19,20 @@ This repository contains a datapack and resourcepack, labeled accordingly. Insta
 * Description updated to account for new tabs
 * Multiple advancements are now listed under the new Combat tab
 * Multiple advancements are now listed under the new Miscellaneous tab
+* "A Pirate's Life for Me" added
+	* Triggered upon opening a buried treasure chest
+	* Hidden child of "Plunderer"
 * "A Quaint Little Town" added
 	* Triggered upon discovering a village
 	* "Hired Help" is now a hidden child
 	* "What a Deal!" is now a hidden child
+* "Absorbent, Yellow, and Porous" added
+	* Triggered upon collecting wet sponges
+	* Hidden child of "Atlantean"
+* "Atlantean" added
+	* Triggered upon discovering an ocean monument
+* "Plunderer" added
+	* Triggered upon discovering a shipwreck
 * "Sands of Time" added
 	* Triggered upon discovering a desert pyramid
 * "Tomb Raider" added
