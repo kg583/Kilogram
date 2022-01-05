@@ -9,7 +9,8 @@ This repository contains a datapack and resourcepack, labeled accordingly. Insta
 ## Changelog
 
 ### General
- 
+
+* "Feels Like Home" is now properly capitalized
 * Oxford commas are now used for the US English language translations
 
 ### Advancements

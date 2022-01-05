@@ -46,6 +46,7 @@
 	"advancements.combat.whos_the_pillager_now.description": "Give a Pillager a taste of their own medicine",
 	"advancements.husbandry.honey_block_slide.title": "Sticky Situation",
 	"advancements.husbandry.honey_block_slide.description": "Jump into a Honey Block to break your fall",
+	"advancements.nether.ride_strider_in_overworld_lava.title": "Feels Like Home",
 	"advancements.story.enter_the_nether.description": "Build, light, and enter a Nether Portal",
 	"arguments.swizzle.invalid": "Invalid swizzle, expected combination of 'x', 'y', and 'z'",
 	"selectWorld.gameMode.survival.line2": "levels, health, and hunger",
