@@ -1,0 +1,31 @@
+{
+  "parent": "minecraft:adventure/loot_monument",
+  "display": {
+    "icon": {
+      "item": "minecraft:conduit"
+    },
+    "title": {
+      "translate": "advancements.adventure.create_conduit.title"
+    },
+    "description": {
+      "translate": "advancements.adventure.create_conduit.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "conduit": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "block": "minecraft:conduit"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "conduit"
+    ]
+  ]
+}

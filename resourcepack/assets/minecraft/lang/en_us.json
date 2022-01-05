@@ -1,5 +1,6 @@
 {
-	"advancements.adventure.root.description": "Adventure, exploration, and discovery",
+	"advancements.adventure.create_conduit.title": "Scuba Gear",
+	"advancements.adventure.create_conduit.description": "Construct and place a conduit",
 	"advancements.adventure.find_monument.title": "Atlantean",
 	"advancements.adventure.find_monument.description": "Discover an ocean monument",
 	"advancements.adventure.find_pyramid.title": "Sands of Time",
@@ -14,6 +15,7 @@
 	"advancements.adventure.loot_pyramid.description": "Loot a desert pyramid... and survive",
 	"advancements.adventure.loot_monument.title": "Absorbent, Yellow, and Porous",
 	"advancements.adventure.loot_monument.description": "Collect sponges from an ocean monument",
+	"advancements.adventure.root.description": "Adventure, exploration, and discovery",
 	"advancements.combat.arbalistic.title": "Arbalistic",
 	"advancements.combat.arbalistic.description": "Kill five unique mobs with one crossbow shot",
 	"advancements.combat.bullseye.title": "Bullseye",
