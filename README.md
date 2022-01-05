@@ -1,12 +1,44 @@
 # Kilogram v0.2
 
-Kilogram is a datapack designed to improve upon the vanilla experience. Additions and modifications included in Kilogram are focused on realism, consistency, and quality-of-life. Suggestions for future additions are always appreciated, but should generally remain in the scope of smaller tweaks and adjustments to the game.
+Kilogram is a pack designed to improve upon the vanilla experience. Additions and modifications included in Kilogram are focused on realism, consistency, and quality-of-life. Suggestions for future additions are always appreciated, but should generally remain in the scope of smaller tweaks and adjustments to the game.
 
 ## Download
 
-Download this repository as-is and install it as a datapack into your world. A fresh world is recommended to take advantage of the custom world generation settings.
+This repository contains a datapack and resourcepack, labeled accordingly. Install each into the appropriate folder to utilize Kilogram in your world; you may wish to rename each folder to "Kilogram" once they are installed. A fresh world is recommended to take advantage of the custom world generation settings.
 
 ## Changelog
+
+### General
+ 
+* Oxford commas are now used for the US English language translations
+
+### Advancements
+
+#### Adventuring
+
+* Description updated to account for new tabs
+* Multiple advancements are now listed under the new Combat tab
+* Multiple advancements are now listed under the new Miscellaneous tab
+
+#### Combat
+
+* "Arbalistic" moved from Adventure tab
+* "Bullseye" moved from Adventure tab
+* "Monster Hunter" moved from Adventure tab
+* "Monsters Hunted" moved from Adventure tab
+* "Ol' Betsy" moved from Adventure tab
+* "Postmortal" moved from Adventure tab
+* "Sniper Duel" moved from Adventure tab
+* "Take Aim" moved from Adventure tab
+* "Throwaway Joke" moved from Adventure tab
+* "Two Birds, One Arrow" moved from Adventure Tab
+* "Very, Very Frightening" moved from Adventure tab
+* "Who's the Pillager Now?" moved from Adventure Tab
+
+#### Miscellaneous
+
+* "Sticky Situation" moved from Adventure tab
+* "Surge Protector" moved from Adventure tab
 
 ### Loot
 
