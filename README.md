@@ -19,12 +19,22 @@ This repository contains a datapack and resourcepack, labeled accordingly. Insta
 * Description updated to account for new tabs
 * Multiple advancements are now listed under the new Combat tab
 * Multiple advancements are now listed under the new Miscellaneous tab
+* "A Quaint Little Town" added
+	* Triggered upon discovering a village
+	* "Hired Help" is now a hidden child
+	* "What a Deal!" is now a hidden child
+* "Sands of Time" added
+	* Triggered upon discovering a desert pyramid
+* "Tomb Raider" added
+	* Triggered upon opening a desert pyramid chest
+	* Hidden child of "Sands of Time"
 
 #### Combat
 
 * "Arbalistic" moved from Adventure tab
 * "Bullseye" moved from Adventure tab
 * "Monster Hunter" moved from Adventure tab
+	* Is now the parent of all other Combat advancements
 * "Monsters Hunted" moved from Adventure tab
 * "Ol' Betsy" moved from Adventure tab
 * "Postmortal" moved from Adventure tab

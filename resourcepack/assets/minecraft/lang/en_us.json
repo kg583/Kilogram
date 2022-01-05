@@ -1,5 +1,11 @@
 {
 	"advancements.adventure.root.description": "Adventure, exploration, and discovery",
+	"advancements.adventure.find_pyramid.title": "Sands of Time",
+	"advancements.adventure.find_pyramid.description": "Discover a desert pyramid",
+	"advancements.adventure.find_village.title": "A Quaint Little Town",
+	"advancements.adventure.find_village.description": "Discover a village",
+	"advancements.adventure.loot_pyramid.title": "Tomb Raider",
+	"advancements.adventure.loot_pyramid.description": "Loot a desert pyramid... and survive",
 	"advancements.combat.arbalistic.title": "Arbalistic",
 	"advancements.combat.arbalistic.description": "Kill five unique mobs with one crossbow shot",
 	"advancements.combat.bullseye.title": "Bullseye",

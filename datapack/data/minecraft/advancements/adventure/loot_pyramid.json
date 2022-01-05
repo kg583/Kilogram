@@ -1,0 +1,33 @@
+{
+	"parent": "minecraft:adventure/find_pyramid",
+	"display": {
+		"icon": {
+			"item": "minecraft:chest"
+		},
+		"title": {
+			"translate": "advancements.adventure.loot_pyramid.title"
+		},
+		"description": {
+			"translate": "advancements.adventure.loot_pyramid.description"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": true
+	},
+	"criteria": {
+		"loot_pyramid": {
+			"trigger": "minecraft:player_generates_container_loot",
+			"conditions": {
+				"location": {
+					"loot_table": "minecraft:chests/desert_pyramid"
+				}
+			}
+		}
+	},
+	"requirements": [
+		[
+			"loot_pyramid"
+		]
+	]
+}
