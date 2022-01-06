@@ -56,7 +56,6 @@ This repository contains a datapack and resourcepack, labeled accordingly. Insta
 	* Is now the parent of all other Combat advancements
 * "Monsters Hunted" moved from Adventure tab
 * "Ol' Betsy" moved from Adventure tab
-* "Postmortal" moved from Adventure tab
 * "Sniper Duel" moved from Adventure tab
 * "Take Aim" moved from Adventure tab
 * "Throwaway Joke" moved from Adventure tab
