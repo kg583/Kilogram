@@ -1,4 +1,4 @@
-# Kilogram v0.4
+# Kilogram v0.5
 
 Kilogram is a pack designed to improve upon the vanilla experience. Additions and modifications included in Kilogram are focused on realism, consistency, and quality-of-life. Suggestions for future additions are always appreciated, but should generally remain in the scope of smaller tweaks and adjustments to the game.
 
@@ -18,8 +18,8 @@ This repository contains a datapack and resourcepack, labeled accordingly. Insta
 
 #### Adventuring
 
-* Description updated to account for new tab
-* Multiple advancements are now listed under the new Combat tab
+* Description updated to account for new Combat tab
+* Multiple advancements are now listed under the Combat tab
 * "A Pirate's Life for Me" added
 	* Triggered upon opening a buried treasure chest
 	* Child of "Plunderer"
