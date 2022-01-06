@@ -8,7 +8,7 @@
       "translate": "advancements.adventure.totem_of_undying.title"
     },
     "description": {
-      "translate": "advancements.adventuret.totem_of_undying.description"
+      "translate": "advancements.adventure.totem_of_undying.description"
     },
     "frame": "goal",
     "show_toast": true,
