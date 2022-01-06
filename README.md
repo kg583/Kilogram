@@ -10,8 +10,8 @@ This repository contains a datapack and resourcepack, labeled accordingly. Insta
 
 ### Bug Fixes
 
-* `death.fell.accident.water` is now translated for the US English language
-* Oxford commas are now used for the US English language translations
+* `death.fell.accident.water` is now translated for all English languages
+* Oxford commas are now used for US English language translations
 * The advancement "Feels Like Home" is now properly capitalized
 
 ### Advancements
