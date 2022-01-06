@@ -38,6 +38,9 @@ This repository contains a datapack and resourcepack, labeled accordingly. Insta
 	* Triggered upon discovering a desert pyramid
 * "Scuba Gear" added
 	* Triggered upon placing a conduit
+* "The House on the Hill" added
+	* Trigged upon discovering a woodland mansion
+	* "Postmortal" is now a child
 * "Tomb Raider" added
 	* Triggered upon opening a desert pyramid chest
 	* Child of "Sands of Time"

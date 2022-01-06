@@ -1,0 +1,33 @@
+{
+	"parent": "minecraft:adventure/root",
+	"display": {
+		"icon": {
+			"item": "minecraft:dark_oak_planks"
+		},
+		"title": {
+			"translate": "advancements.adventure.find_mansion.title"
+		},
+		"description": {
+			"translate": "advancements.adventure.find_mansion.description"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"find": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"location": {
+					"feature": "mansion"
+				}
+			}
+		}
+	},
+	"requirements": [
+		[
+			"find"
+		]
+	]
+}

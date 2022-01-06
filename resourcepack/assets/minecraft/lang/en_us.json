@@ -1,6 +1,8 @@
 {
 	"advancements.adventure.create_conduit.title": "Scuba Gear",
 	"advancements.adventure.create_conduit.description": "Construct and place a conduit",
+	"advancements.adventure.find_mansion.title": "The House on the Hill",
+	"advancements.adventure.find_mansion.description": "Discover a woodland mansion",
 	"advancements.adventure.find_monument.title": "Atlantean",
 	"advancements.adventure.find_monument.description": "Discover an ocean monument",
 	"advancements.adventure.find_pyramid.title": "Sands of Time",
@@ -36,8 +38,6 @@
 	"advancements.combat.shoot_arrow.description": "Shoot something with an arrow",
 	"advancements.combat.sniper_duel.title": "Sniper Duel",
 	"advancements.combat.sniper_duel.description": "Kill a Skeleton from at least 50 meters away",
-	"advancements.combat.totem_of_undying.title": "Postmortal",
-	"advancements.combat.totem_of_undying.description": "Use a Totem of Undying to cheat death",
 	"advancements.combat.throw_trident.title": "A Throwaway Joke",
 	"advancements.combat.throw_trident.description": "Throw a trident at something.\nNote: Throwing away your only weapon is not a good idea.",
 	"advancements.combat.two_birds_one_arrow.title": "Two Birds, One Arrow",

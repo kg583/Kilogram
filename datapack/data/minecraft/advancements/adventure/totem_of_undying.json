@@ -1,8 +1,35 @@
 {
-  "parent": "minecraft:adventure/root",
+  "parent": "minecraft:adventure/find_mansion",
+  "display": {
+    "icon": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "title": {
+      "translate": "advancements.adventure.totem_of_undying.title"
+    },
+    "description": {
+      "translate": "advancements.adventuret.totem_of_undying.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
   "criteria": {
-    "impossible": {
-      "trigger": "minecraft:impossible"
+    "used_totem": {
+      "trigger": "minecraft:used_totem",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:totem_of_undying"
+          ]
+        }
+      }
     }
-  }
+  },
+  "requirements": [
+    [
+      "used_totem"
+    ]
+  ]
 }
