@@ -41,6 +41,9 @@ This repository contains a datapack and resourcepack, labeled accordingly. Insta
 * "Tomb Raider" added
 	* Triggered upon opening a desert pyramid chest
 	* Child of "Sands of Time"
+* "You've Got a Friend in Me" added
+	* Triggered upon trading with a Master level Villager
+	* Child of "What a Deal!"
 
 #### Combat
 
