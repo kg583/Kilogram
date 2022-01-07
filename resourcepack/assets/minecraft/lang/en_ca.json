@@ -17,7 +17,7 @@
 	"advancements.adventure.loot_pyramid.description": "Loot a desert pyramid... and survive",
 	"advancements.adventure.loot_monument.title": "Absorbent, Yellow, and Porous",
 	"advancements.adventure.loot_monument.description": "Collect sponges from an ocean monument",
-	"advancements.adventure.root.description": "Adventure, exploration, and discovery",
+	"advancements.adventure.root.description": "Adventure, exploration and discovery",
 	"advancements.adventure.trade_max.title": "You've Got a Friend in Me",
 	"advancements.adventure.trade_max.description": "Trade with a Master Villager",
 	"advancements.combat.arbalistic.title": "Arbalistic",
@@ -51,10 +51,6 @@
 	"advancements.husbandry.honey_block_slide.title": "Sticky Situation",
 	"advancements.husbandry.honey_block_slide.description": "Jump into a Honey Block to break your fall",
 	"advancements.nether.ride_strider_in_overworld_lava.title": "Feels Like Home",
-	"advancements.story.enter_the_nether.description": "Build, light, and enter a Nether Portal",
-	"arguments.swizzle.invalid": "Invalid swizzle, expected combination of 'x', 'y', and 'z'",
 	"death.fell.accident.water": "%1$s thought the water would save them",
-	"selectWorld.gameMode.survival.line2": "levels, health, and hunger",
-	"subtitles.item.nether_wart.plant": "Nether wart planted",
-	"tutorial.move.title": "Move with %s, %s, %s, and %s"
+	"subtitles.item.nether_wart.plant": "Nether wart planted"
 }
