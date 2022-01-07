@@ -54,5 +54,6 @@
 	"death.attack.sting.item": "%1$s was silenced by a sting with %2$s",
 	"death.attack.witherSkull.item": "%1$s was shot by a skull from %2$s using %3$s",
 	"death.fell.accident.water": "%1$s was caught betwixt waters and stones",
+	"subtitles.entity.axolotl.idle_water": "Axolotl gurgles",
 	"subtitles.item.nether_wart.plant": "Nether wart sow'd"
 }

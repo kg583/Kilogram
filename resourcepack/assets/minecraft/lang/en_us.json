@@ -59,6 +59,7 @@
 	"death.attack.witherSkull.item": "%1$s was shot by a skull from %2$s using %3$s",
 	"death.fell.accident.water": "%1$s thought the water would save them",
 	"selectWorld.gameMode.survival.line2": "levels, health, and hunger",
+	"subtitles.entity.axolotl.idle_water": "Axolotl gurgles",
 	"subtitles.item.nether_wart.plant": "Nether wart planted",
 	"tutorial.move.title": "Move with %s, %s, %s, and %s"
 }

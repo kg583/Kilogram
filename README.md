@@ -18,6 +18,7 @@ This repository contains a datapack and resourcepack, labeled accordingly. Insta
 * `death.fell.accident.water` is now translated for all English languages ([MC-195467](https://bugs.mojang.com/browse/MC-195467))
 * `mco.configure.world.restore.download.question.line1` now has correst spacing ([MC-235064](https://bugs.mojang.com/browse/MC-235064))
 * Oxford commas are now used for US English language translations (Not a bug, but a matter of principle)
+* `subtitles.entity.axolotl.idle_water` is now distinct from `subtitles.axolotl.idle_air` ([MC-208593](https://bugs.mojang.com/browse/MC-208593))
 * `subtitles.item.nether_wart.plant` is now more specific ([MC-148832](https://bugs.mojang.com/browse/MC-148832))
 * Translation keys for "Serious Dedications" are now properely named ([MC-237307](https://bugs.mojang.com/browse/MC-237307))
 
