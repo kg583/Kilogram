@@ -16,6 +16,7 @@ This repository contains a datapack and resourcepack, labeled accordingly. Insta
 * `death.fell.accident.water` is now translated for all English languages ([MC-195467](https://bugs.mojang.com/browse/MC-195467))
 * Oxford commas are now used for US English language translations (Not a bug, but a matter of principle)
 * `subtitles.item.nether_wart.plant` is now more specific ([MC-148832](https://bugs.mojang.com/browse/MC-148832))
+* Translation keys for "Serious Dedications" are now properely named ([MC-237307](https://bugs.mojang.com/browse/MC-237307))
 
 ### Advancements
 

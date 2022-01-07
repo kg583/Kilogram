@@ -50,6 +50,8 @@
 	"advancements.combat.whos_the_pillager_now.description": "Give a raider a taste o' their own salty rum",
 	"advancements.husbandry.honey_block_slide.title": "Sticky Situation",
 	"advancements.husbandry.honey_block_slide.description": "Jump into a Cube o' Bee Nectar to break yer fall",
+	"advancements.husbandry.obtain_netherite_hoe.description": "Use a bullion o' Blackbeard's alloy to better yer farmin' stick, then take a look in the mirror",
+    "advancements.husbandry.obtain_netherite_hoe.title": "How to not be a pirate",
 	"death.fell.accident.water": "%1$s met Davy Jones 'thout their sea legs",
 	"subtitles.item.nether_wart.plant": "Verruca spread"
 }
