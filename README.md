@@ -1,4 +1,4 @@
-# Kilogram v0.7
+# Kilogram v0.8
 
 Kilogram is a pack designed to improve upon the vanilla experience. Additions and modifications included in Kilogram are focused on realism, consistency, and quality-of-life. Suggestions for future additions are always appreciated, but should generally remain in the scope of smaller tweaks and adjustments to the game.
 
@@ -13,14 +13,9 @@ This repository contains a datapack and resourcepack, labeled accordingly. Insta
 * Advancement "Feels Like Home" is now properly capitalized ([MC-237920](https://bugs.mojang.com/browse/MC-237920))
 * Advancement "Local Brewery" now requires that a potion be removed from a brewing stand ([MC-116875](https://bugs.mojang.com/browse/MC-116875))
 * Advancement "Two by Two" is now properly conjugated internally ([MC-227148](https://bugs.mojang.com/browse/MC-227148))
-* `death.attack.sting.item` is now translated for all English languages ([MC-186851](https://bugs.mojang.com/browse/MC-186851))
-* `death.attack.witherSkull.item` is now translated for all English language ([MC-186148](https://bugs.mojang.com/browse/MC-186148))
 * `death.fell.accident.water` is now translated for all English languages ([MC-195467](https://bugs.mojang.com/browse/MC-195467))
-* `mco.configure.world.restore.download.question.line1` now has correst spacing ([MC-235064](https://bugs.mojang.com/browse/MC-235064))
 * Oxford commas are now used for US English language translations (Not a bug, but a matter of principle)
-* `subtitles.entity.axolotl.idle_water` is now distinct from `subtitles.axolotl.idle_air` ([MC-208593](https://bugs.mojang.com/browse/MC-208593))
-* `subtitles.item.nether_wart.plant` is now more specific ([MC-148832](https://bugs.mojang.com/browse/MC-148832))
-* Translation keys for "Serious Dedications" are now properely named ([MC-237307](https://bugs.mojang.com/browse/MC-237307))
+* Translation keys for "Serious Dedication" are now properely named ([MC-237307](https://bugs.mojang.com/browse/MC-237307))
 
 ### Advancements
 
