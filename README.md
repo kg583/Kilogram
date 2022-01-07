@@ -13,6 +13,8 @@ This repository contains a datapack and resourcepack, labeled accordingly. Insta
 * Advancement "Feels Like Home" is now properly capitalized ([MC-237920](https://bugs.mojang.com/browse/MC-237920))
 * Advancement "Local Brewery" now requires that a potion be removed from a brewing stand ([MC-116875](https://bugs.mojang.com/browse/MC-116875))
 * Advancement "Two by Two" is now properly conjugated internally ([MC-227148](https://bugs.mojang.com/browse/MC-227148))
+* `death.attack.sting.item` is now translated for all English languages ([MC-186851](https://bugs.mojang.com/browse/MC-186851))
+* `death.attack.witherSkull.item` is now translated for all English language ([MC-186148](https://bugs.mojang.com/browse/MC-186148))
 * `death.fell.accident.water` is now translated for all English languages ([MC-195467](https://bugs.mojang.com/browse/MC-195467))
 * Oxford commas are now used for US English language translations (Not a bug, but a matter of principle)
 * `subtitles.item.nether_wart.plant` is now more specific ([MC-148832](https://bugs.mojang.com/browse/MC-148832))

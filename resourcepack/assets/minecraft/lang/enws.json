@@ -51,6 +51,8 @@
 	"advancements.husbandry.honey_block_slide.description": "Forbear a fatal fall, with a slide o'er honey",
 	"advancements.husbandry.obtain_netherite_hoe.description": "Upgrade thy hoe with a Netherite ingot, then remember: to be, or not to be, that is the question",
     "advancements.husbandry.obtain_netherite_hoe.title": "Have I done a good day's work",
+	"death.attack.sting.item": "%1$s was silenced by a sting with %2$s",
+	"death.attack.witherSkull.item": "%1$s was shot by a skull from %2$s using %3$s",
 	"death.fell.accident.water": "%1$s was caught betwixt waters and stones",
 	"subtitles.item.nether_wart.plant": "Nether wart sow'd"
 }

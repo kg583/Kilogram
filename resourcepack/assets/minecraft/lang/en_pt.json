@@ -52,6 +52,8 @@
 	"advancements.husbandry.honey_block_slide.description": "Jump into a Cube o' Bee Nectar to break yer fall",
 	"advancements.husbandry.obtain_netherite_hoe.description": "Use a bullion o' Blackbeard's alloy to better yer farmin' stick, then take a look in the mirror",
     "advancements.husbandry.obtain_netherite_hoe.title": "How to not be a pirate",
+	"death.attack.sting.item": "%1$s was stinged into the abyss with %2$s",
+	"death.attack.witherSkull.item": "%1$s's gizzard was skewered by a skull from %2$s using %3$s",
 	"death.fell.accident.water": "%1$s met Davy Jones 'thout their sea legs",
 	"subtitles.item.nether_wart.plant": "Verruca spread"
 }

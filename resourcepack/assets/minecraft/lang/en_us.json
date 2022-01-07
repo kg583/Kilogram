@@ -55,6 +55,8 @@
 	"advancements.nether.ride_strider_in_overworld_lava.title": "Feels Like Home",
 	"advancements.story.enter_the_nether.description": "Build, light, and enter a Nether Portal",
 	"arguments.swizzle.invalid": "Invalid swizzle, expected combination of 'x', 'y', and 'z'",
+	"death.attack.sting.item": "%1$s was stung to death with %2$s",
+	"death.attack.witherSkull.item": "%1$s was shot by a skull from %2$s using %3$s",
 	"death.fell.accident.water": "%1$s thought the water would save them",
 	"selectWorld.gameMode.survival.line2": "levels, health, and hunger",
 	"subtitles.item.nether_wart.plant": "Nether wart planted",
