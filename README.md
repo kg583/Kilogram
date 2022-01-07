@@ -1,4 +1,4 @@
-# Kilogram v0.6
+# Kilogram v0.7
 
 Kilogram is a pack designed to improve upon the vanilla experience. Additions and modifications included in Kilogram are focused on realism, consistency, and quality-of-life. Suggestions for future additions are always appreciated, but should generally remain in the scope of smaller tweaks and adjustments to the game.
 
@@ -16,6 +16,7 @@ This repository contains a datapack and resourcepack, labeled accordingly. Insta
 * `death.attack.sting.item` is now translated for all English languages ([MC-186851](https://bugs.mojang.com/browse/MC-186851))
 * `death.attack.witherSkull.item` is now translated for all English language ([MC-186148](https://bugs.mojang.com/browse/MC-186148))
 * `death.fell.accident.water` is now translated for all English languages ([MC-195467](https://bugs.mojang.com/browse/MC-195467))
+* `mco.configure.world.restore.download.question.line1` now has correst spacing ([MC-235064](https://bugs.mojang.com/browse/MC-235064))
 * Oxford commas are now used for US English language translations (Not a bug, but a matter of principle)
 * `subtitles.item.nether_wart.plant` is now more specific ([MC-148832](https://bugs.mojang.com/browse/MC-148832))
 * Translation keys for "Serious Dedications" are now properely named ([MC-237307](https://bugs.mojang.com/browse/MC-237307))
