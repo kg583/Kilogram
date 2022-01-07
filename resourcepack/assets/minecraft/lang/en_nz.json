@@ -55,5 +55,6 @@
 	"arguments.swizzle.invalid": "Invalid swizzle, expected combination of 'x', 'y', and 'z'",
 	"death.fell.accident.water": "%1$s thought the water would save them",
 	"selectWorld.gameMode.survival.line2": "levels, health, and hunger",
+	"subtitles.item.nether_wart.plant": "Nether wart planted",
 	"tutorial.move.title": "Move with %s, %s, %s, and %s"
 }

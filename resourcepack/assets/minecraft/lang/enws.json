@@ -49,5 +49,6 @@
 	"advancements.combat.whos_the_pillager_now.description": "Have at a Wild Hunter the way they might have unto thee",
 	"advancements.husbandry.honey_block_slide.title": "As thick as honeycomb",
 	"advancements.husbandry.honey_block_slide.description": "Forbear a fatal fall, with a slide o'er honey",
-	"death.fell.accident.water": "%1$s was caught betwixt waters and stones"
+	"death.fell.accident.water": "%1$s was caught betwixt waters and stones",
+	"subtitles.item.nether_wart.plant": "Nether wart sow'd"
 }
